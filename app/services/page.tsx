@@ -21,7 +21,7 @@ const serviceDetails = [
       'Vehicle Escort',
       'Counter Surveillance',
     ],
-    image: '/slid_2_.jpeg',
+    image: '/slid_3_.jpeg',
   },
   {
     icon: Users,
