@@ -13,12 +13,12 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Phone',
-    details: ['+92 3445533787', '+92 3445533787'],
+    details: ['+92 3149977981', '+92 3149977981'],
   },
   {
     icon: Mail,
     title: 'Email',
-    details: ['mj162332@gmail.com', 'mj162332@gmail.com'],
+    details: ['sulaimankhan540ss@gmail.com', 'sulaimankhan540ss@gmail.com'],
   },
   {
     icon: MapPin,
@@ -233,7 +233,7 @@ export default function Contact() {
                   <Send className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                   Send Message
                 </button>
-1
+
                 {/* Success Message */}
                 {submitted && (
                   <div className="p-4 bg-primary/10 border border-primary/20 rounded-lg">
@@ -268,13 +268,13 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-foreground/70">Call Anytime</p>
                     <p className="text-lg font-bold text-primary">
-                      +92 3445533787
+                      +92 3149977981
                     </p>
                   </div>
                 </a>
 
                 <a
-                  href="mailto:mj162332@gmail.com"
+                  href="mailto:sulaimankhan540ss@gmail.com"
                   className="flex items-center gap-4 p-6 bg-card dark:bg-card/50 border border-border/50 rounded-xl hover:border-primary/50 hover:shadow-lg hover:shadow-primary/10 transition-all duration-300 group"
                 >
                   <div className="w-12 h-12 bg-primary/10 dark:bg-primary/20 rounded-lg flex items-center justify-center group-hover:bg-primary/20 transition-colors">
@@ -283,7 +283,7 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-foreground/70">Email Us</p>
                     <p className="text-lg font-bold text-primary">
-                      mj162332@gmail.com
+                      sulaimankhan540ss@gmail.com
                     </p>
                   </div>
                 </a>
@@ -325,7 +325,7 @@ export default function Contact() {
           { id: 1, image: '/slid_1.jpeg', title: 'Professional Team' },
           { id: 2, image: '/slid_2.jpeg', title: 'VIP Protection' },
           { id: 3, image: '/banner.jpg', title: 'Tactical Training' },
-          { id: 4, image: '/slid_3.jpeg', title: 'Operations' },
+          { id: 4, image: '/bod_6.jpeg', title: 'Operations' },
           { id: 5, image: '/slid_4.jpeg', title: 'Command Center' },
         ]}
         title="Contact Our Professional Team Today"
