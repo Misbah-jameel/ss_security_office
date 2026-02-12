@@ -95,18 +95,18 @@ export default function Footer() {
               <h4 className="font-bold text-foreground text-lg">Contact Info</h4>
               <div className="space-y-3">
                 <a
-                  href="tel:+923445533787"
+                  href="tel:+92 3149977981"
                   className="flex items-center gap-3 text-foreground/70 hover:text-primary transition-colors duration-300 group"
                 >
                   <Phone className="w-5 h-5 text-primary group-hover:scale-110 transition-transform" />
-                  <span>+92 3445533787</span>
+                  <span>+92 3149977981</span>
                 </a>
                 <a
-                  href="mailto:mj162332@gmail.com"
+                  href="sulaimankhan540ss@gmail.com"
                   className="flex items-center gap-3 text-foreground/70 hover:text-primary transition-colors duration-300 group"
                 >
                   <Mail className="w-5 h-5 text-primary group-hover:scale-110 transition-transform" />
-                  <span>mj162332@gmail.com</span>
+                  <span>sulaimankhan540ss@gmail.com</span>
                 </a>
                 <div className="flex items-center gap-3 text-foreground/70">
                   <MapPin className="w-5 h-5 text-primary flex-shrink-0" />
