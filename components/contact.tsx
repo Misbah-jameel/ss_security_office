@@ -28,8 +28,8 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Call Us',
-      value: '+92 304 2775661',
-      link: 'tel:+923042775661',
+      value: '+92 3149977981',
+      link: 'tel:+92 3149977981',
     },
     {
       icon: MessageSquare,
@@ -39,7 +39,7 @@ export default function Contact() {
     },
     {
       icon: MapPin,
-      title: 'Our Location',
+      title: 'Address: DHA PHASE-2 Near Iqra University ,',
       value: 'Karachi, Pakistan',
       link: '#',
     },
