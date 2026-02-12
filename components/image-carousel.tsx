@@ -6,12 +6,12 @@ import { ChevronLeft, ChevronRight } from 'lucide-react'
 
 const images = [
   {
-    src: '/slid_1.jpeg',
+    src: '/bod_6.jpeg',
     alt: 'Professional Security Team',
     title: 'Elite Security Personnel',
   },
   {
-    src: '/slid_2.jpeg',
+    src: '/banner.jpg',
     alt: 'Event Security & Bouncers',
     title: 'Event Security Services',
   },
@@ -21,7 +21,7 @@ const images = [
     title: 'VIP Protection Services',
   },
   {
-    src: '/banner.jpg',
+    src: '/slid_2.jpeg',
     alt: 'Security Operations Center',
     title: 'Advanced Security Operations',
   },
