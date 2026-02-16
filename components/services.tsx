@@ -11,7 +11,7 @@ const services = [
     title: 'Personal Bodyguards',
     description:
       'We provide trained personal bodyguards with heavy weapons, who always stay with you in every critical situation and protect you from danger.',
-    image: '/pro_3.jpeg',
+    image: '/bod_7.jpeg',
   },
   {
     icon: Users,
