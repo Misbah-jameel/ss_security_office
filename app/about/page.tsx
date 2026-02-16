@@ -167,7 +167,7 @@ export default function About() {
     {
       name: "Lt. Director",
       role: "Training Director",
-      image: "/director.jpeg",
+      image: "/lt.jpeg",
     },
   ].map((member, index) => (
     <div
