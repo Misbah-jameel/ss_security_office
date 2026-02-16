@@ -8,25 +8,25 @@ const weapons = [
     name: 'M416',
     badge: 'Rifle',
     description: 'Best gun we provide to our guards on client demand.',
-    image: '/wep_1.jpeg',
+    image: '/m4.jpeg',
   },
   {
     name: 'Pump-action',
     badge: 'Shotgun',
     description: 'We commonly provide Pump-action to our guards.',
-    image: '/wep_2.jpeg',
+    image: '/pump.jpeg',
   },
   {
     name: 'AK 47',
     badge: 'Rifle',
     description: 'We commonly provide AK 47 to our guards.',
-    image: '/wep_3.jpeg',
+    image: '/ak47.jpeg',
   },
   {
     name: '9mm',
     badge: 'Handgun',
     description: 'The most common one hand gun we provide to our guards.',
-    image: '/wep_4.jpeg',
+    image: '/9mm.jpeg',
   },
 ]
 
